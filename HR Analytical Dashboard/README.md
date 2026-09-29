@@ -1,0 +1,1 @@
+An interactive Power BI dashboard developed to analyze employee data, attrition, workforce demographics, and key HR metrics. The dashboard uses Power Query for data cleaning and transformation and DAX for KPI calculations, with interactive charts, cards, and slicers to identify employee trends and attrition patterns.
