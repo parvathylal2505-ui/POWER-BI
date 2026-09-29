@@ -1,0 +1,1 @@
+An interactive Power BI dashboard designed to analyze fuel sales, fuel prices, revenue, and performance across different fuel types, locations, and time periods. The project uses Power Query for data cleaning and transformation and DAX for calculations and KPIs, with interactive visuals, slicers, and charts for easy analysis.
